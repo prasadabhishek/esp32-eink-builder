@@ -25,3 +25,6 @@ uv run scripts/eink_dither.py dither \
 ## License
 
 MIT
+
+---
+Built by [Abhishek Prasad](https://abhishekprasad.fyi)
